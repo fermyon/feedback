@@ -3,6 +3,7 @@
   <img src="./media/FC_Logo.png" width="200"/>
 </div>
 
+## Filing a GitHub Issue
 Thank you for trying out Fermyon Cloud! We'd love to hear your feedback. Please use one of the following [templates](https://github.com/fermyon/feedback/issues/new/choose) to file a GitHub issue that will be reviewed by the Fermyon buffins. 
 
 There are templates for the following categories:
