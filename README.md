@@ -1,10 +1,9 @@
-# Fermyon Cloud Feedback 
-<div align="center">
-  <img src="./media/FC_Logo.png" width="200"/>
+<div align="left">
+  <img src="./media/Feedback Github Repo.png" width="100%"/>
 </div>
 
 ## Filing a GitHub Issue
-Thank you for trying out Fermyon Cloud! We'd love to hear your feedback. Please use one of the following [templates](https://github.com/fermyon/feedback/issues/new/choose) to file a GitHub issue that will be reviewed by the Fermyon buffins. 
+Thank you for trying out Fermyon Cloud! We'd love to hear your feedback. Please use one of the following [templates](https://github.com/fermyon/feedback/issues/new/choose) to file a GitHub issue and we'll review it. 
 
 There are templates for the following categories:
 * [Feature request](https://github.com/fermyon/feedback/issues/new?assignees=&labels=&template=feature_request.md&title=) - an issue that surfaces an ask for net-new functionality
