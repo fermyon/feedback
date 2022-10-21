@@ -1,5 +1,5 @@
-<div align="left">
-  <img src="./media/Feedback Github Repo.png" width="100%"/>
+<div align="center">
+  <img src="./media/Feedback Github Repo.png" width="500"/>
 </div>
 
 ## Filing a GitHub Issue
