@@ -12,16 +12,15 @@ A clear and concise description of what the bug is.
 
 **Frequency of the bug**
 Please check one:
-[] Consistent repro
-[] intermittent repro
+- [ ] Consistent repro
+- [ ] Intermittent repro
+- [ ] No repro
 
 **Set-up information**
-Please share the version of Spin used when the bug occurred. You can find the version of spin by running 
-```spin -v```
+Please share the version of Spin used when the bug occurred. You can find the version of Spin by running `spin -V`.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-0. Specify the version of Spin used when the issue occurred
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
