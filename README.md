@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./media/Feedback Github Repo.png" width="500" alt="Fermyon Cloud Feedback Banner"/>
+  <img src="./media/Feedback Github Repo.png" alt="Feedback Banner"/>
 </div>
 
 ## Filing a GitHub Issue
